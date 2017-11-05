@@ -1,0 +1,3 @@
+([('Accuwear',
+   '/Users/Chris/Documents/OneDrive/HackPSU/dist/Accuwear',
+   'EXECUTABLE')],)

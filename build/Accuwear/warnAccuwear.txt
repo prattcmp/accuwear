@@ -1,0 +1,102 @@
+missing module named 'PyQt5.sip' - imported by /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/PyInstaller/loader/rthooks/pyi_rth_qt5plugins.py
+missing module named 'org.python' - imported by pickle, xml.sax, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named _winreg - imported by platform, requests.utils, pygame, pygame.sysfont, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named java - imported by platform, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named vms_lib - imported by platform, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named winreg - imported by platform, mimetypes, urllib.request, requests.utils, pygame.sysfont, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.quote - imported by urllib, requests.compat, oauthlib.common, oauthlib.oauth2.rfc6749.utils, textblob.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, requests.compat, oauthlib.common
+missing module named urllib.urlencode - imported by urllib, requests.compat, oauthlib.common, oauthlib.oauth1.rfc5849.endpoints.authorization, textblob.compat
+missing module named urllib.proxy_bypass_environment - imported by urllib, requests.compat
+missing module named urllib.getproxies_environment - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named nt - imported by os, ntpath, shutil, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named ce - imported by os, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named msvcrt - imported by subprocess, getpass, multiprocessing.spawn, multiprocessing.popen_spawn_win32, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named _winapi - imported by subprocess, multiprocessing.reduction, multiprocessing.connection, multiprocessing.heap, multiprocessing.popen_spawn_win32, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named _dummy_threading - imported by dummy_threading, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named org - imported by copy, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named unicodecsv - imported by textblob.compat
+missing module named urllib2 - imported by requests.compat, oauthlib.oauth1.rfc5849.utils, textblob.compat
+missing module named StringIO - imported by urllib3.packages.six, requests.compat, six, nltk.compat, nltk.corpus.reader.timit, pkg_resources._vendor.six
+missing module named six.moves.zip - imported by six.moves, nltk.metrics.scores, nltk.classify.scikitlearn, nltk.tag.hmm, nltk.misc.chomsky
+missing module named _yaml - imported by yaml.cyaml
+missing module named "'six.moves.urllib'.request" - imported by nltk.data, nltk.util, nltk.downloader
+missing module named cPickle - imported by tweepy.cache, nltk.data, nltk.corpus.reader.util
+missing module named cStringIO - imported by cPickle, nltk.compat, pygame.compat
+missing module named copy_reg - imported by cPickle, cStringIO, pygame
+missing module named six.moves.range - imported by six.moves, nltk.metrics.scores, nltk.metrics.segmentation, nltk.parse.chart, nltk.parse.featurechart, nltk.parse.earleychart, nltk.parse.nonprojectivedependencyparser, nltk.corpus.reader.wordnet
+runtime module named six.moves - imported by 'six.moves.urllib', http.client, nltk.tokenize.casual, nltk.metrics.scores, nltk.metrics.segmentation, nltk.classify.scikitlearn, nltk.parse.chart, nltk.draw, tkinter, tkinter.filedialog, nltk.parse.featurechart, tkinter.font, nltk.sem.relextract, nltk.parse.earleychart, nltk.parse.nonprojectivedependencyparser, nltk.tag.hmm, nltk.corpus.reader.wordnet, nltk.corpus.reader.framenet, nltk.stem.snowball, tkinter.messagebox, nltk.downloader, nltk, nltk.misc.chomsky
+missing module named six.moves.input - imported by six.moves, nltk.stem.snowball, nltk.downloader
+missing module named six.moves.map - imported by six.moves, nltk.tag.hmm
+missing module named 'pygame.mixer' - imported by pygame, pygame._numpysndarray, nltk.corpus.reader.timit
+missing module named ossaudiodev - imported by nltk.corpus.reader.timit
+missing module named "'six.moves.urllib'.error" - imported by nltk.downloader
+missing module named nose - imported by nltk.tokenize.stanford_segmenter, nltk.metrics.segmentation, nltk.classify.scikitlearn, nltk.classify.senna, nltk.tag.hunpos, nltk.draw, nltk.sem.drt, nltk.parse.bllip, nltk.parse.corenlp, nltk.tag.stanford, nltk.tag.senna
+missing module named matplotlib - imported by nltk.probability, nltk.tokenize.texttiling, nltk.parse.dependencygraph, nltk.draw.dispersion
+missing module named numpy - imported by nltk.tokenize.texttiling, nltk.metrics.segmentation, nltk.metrics.aline, nltk.classify.megam, nltk.classify.maxent, nltk.classify.tadm, nltk.parse.transitionparser, nltk.tag.hmm, pygame._numpysurfarray, pygame._numpysndarray, pygame, nltk, nltk.cluster.util, nltk.cluster.kmeans, nltk.cluster.gaac, nltk.cluster.em
+missing module named networkx - imported by nltk.parse.dependencygraph
+missing module named pycrfsuite - imported by nltk.tag.crf
+missing module named 'backports.ssl_match_hostname' - imported by urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by urllib3.packages.ordered_dict
+missing module named thread - imported by urllib3.packages.ordered_dict
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urlparse - imported by requests.compat, oauthlib.common, oauthlib.oauth1.rfc5849, oauthlib.oauth1.rfc5849.signature, oauthlib.oauth1.rfc5849.parameters, requests_oauthlib.oauth1_session, oauthlib.oauth2.rfc6749.utils, oauthlib.oauth2.rfc6749.tokens, oauthlib.oauth2.rfc6749.parameters
+missing module named simplejson - imported by requests.compat, tweepy.utils
+missing module named Queue - imported by urllib3.connectionpool, pygame.threads
+missing module named netbios - imported by uuid
+missing module named win32wnet - imported by uuid
+missing module named 'urllib3.packages.six.moves' - imported by urllib3.exceptions, urllib3.connectionpool, urllib3.connection, urllib3.util.response, urllib3.request, urllib3.response, urllib3.poolmanager
+missing module named socks - imported by urllib3.contrib.socks
+missing module named 'OpenSSL.crypto' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.x509' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.hazmat' - imported by urllib3.contrib.pyopenssl
+missing module named cryptography - imported by urllib3.contrib.pyopenssl
+missing module named OpenSSL - imported by urllib3.contrib.pyopenssl
+missing module named 'bllipparser.RerankingParser' - imported by nltk.parse.bllip
+missing module named bllipparser - imported by nltk.parse.bllip
+missing module named sklearn - imported by nltk.classify.scikitlearn, nltk.parse.transitionparser
+missing module named 'sklearn.datasets' - imported by nltk.parse.transitionparser
+missing module named scipy - imported by nltk.metrics.scores, nltk.parse.transitionparser
+missing module named 'scipy.stats' - imported by nltk.metrics.association
+missing module named regex - imported by nltk.classify.textcat
+missing module named 'sklearn.naive_bayes' - imported by nltk.classify.scikitlearn
+missing module named 'sklearn.linear_model' - imported by nltk.classify.scikitlearn
+missing module named 'sklearn.preprocessing' - imported by nltk.classify.scikitlearn
+missing module named sets - imported by nltk.decorators
+missing module named nltk.Tree - imported by nltk, nltk.tree, nltk.chunk.regexp
+missing module named nltk.ProbabilisticTree - imported by nltk, nltk.tree
+missing module named nltk.induce_pcfg - imported by nltk, nltk.grammar
+missing module named nltk.nonterminals - imported by nltk, nltk.grammar, nltk.parse.chart
+missing module named nltk.Prover9 - imported by nltk, nltk.sem.glue
+missing module named nltk.Nonterminal - imported by nltk, nltk.draw.cfg
+missing module named nltk.CFG - imported by nltk, nltk.draw.cfg, nltk.grammar, nltk.parse.chart, nltk.parse.recursivedescent, nltk.parse.shiftreduce
+missing module named nltk.Production - imported by nltk, nltk.draw.cfg, nltk.grammar, nltk.parse.chart
+missing module named nltk.word_tokenize - imported by nltk, nltk.classify.textcat
+missing module named nltk.FreqDist - imported by nltk, nltk.classify.textcat
+missing module named numpypy - imported by nltk
+missing module named text_unidecode - imported by nltk.compat
+missing module named unidecode - imported by nltk.compat
+missing module named nltk.__file__ - imported by nltk, nltk.internals
+missing module named django - imported by tweepy.utils
+missing module named "'six.moves.urllib'.parse" - imported by tweepy.utils, tweepy.binder, tweepy.auth
+missing module named jwt - imported by oauthlib.common, oauthlib.oauth2.rfc6749.clients.service_application
+missing module named blinker - imported by oauthlib.signals
+missing module named 'jwt.algorithms' - imported by oauthlib.oauth1.rfc5849.signature
+missing module named bson - imported by tweepy.cache
+missing module named md5 - imported by tweepy.cache
+missing module named multiprocessing.Queue - imported by multiprocessing, /Users/Chris/Documents/OneDrive/HackPSU/Accuwear.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
